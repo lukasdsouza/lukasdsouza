@@ -1,5 +1,9 @@
 ![](https://github.com/lukasdsouza/lukasdsouza/blob/main/gif_git.gif)
 
+<p align="center">
+  <img src="https://github.com/lukasdsouza/lukasdsouza/blob/main/gif_git.gif" />
+</p>
+
 ## Seja bem vindo ao meu perfil do github.👾🤖
 
 ### Meu nome é Lukas, sou estudante de engenharia da computação pelo Ibmec(unidade barra)👨🏻‍💻, atualmente estou no quinto periodo, tenho conhecimentos em redes de computadores, segurança da informação, arquitetura de computadores, estruturas de dados e algoritmos, desenvolvimento front end, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
