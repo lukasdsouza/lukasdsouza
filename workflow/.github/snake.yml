@@ -31,4 +31,4 @@ jobs:
           target_branch: main
           build_dir: lukasdsouza
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ }}
