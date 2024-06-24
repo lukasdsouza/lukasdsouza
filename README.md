@@ -36,4 +36,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdsouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+##### Pequeno aviso: Altos índices de python por conta de um bendito ambiente virtual pra rodar um tema de mkdocs 🤣
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h6wblamis6ga1fumqffw2dnzv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
