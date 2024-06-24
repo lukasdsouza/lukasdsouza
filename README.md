@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://github.com/lukasdsouza/lukasdsouza/blob/main/gif_git.gif" />
 </p>
