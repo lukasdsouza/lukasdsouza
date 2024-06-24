@@ -1,14 +1,17 @@
-## Hi there 👋
-
 ![](https://github.com/lukasdsouza/lukasdsouza/blob/main/gif_git.gif)
 
-### Linguagens
+## Boas vindas ao meu Github 👋
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+### Meu nome é Lukas, sou estudante de engenharia da computação pelo Ibmec(unidade barra), atualmente estou no quinto periodo, tenho conhecimentos em redes de computadores, segurança da informação, arquitetura de computadores, estruturas de dados e algoritmos, desenvolvimento front end, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
+
+### Linguagens:
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Technologies
 
@@ -16,10 +19,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://lukasdsouza.github.io/proj_front_end/)
+[![](https://img.shields.io/badge/-🚀%20Projeto%20front_end-000)](https://lukasdsouza.github.io/proj_front_end/)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
 [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
 [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
