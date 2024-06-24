@@ -47,7 +47,3 @@ const Lukas = {
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h6wblamis6ga1fumqffw2dnzv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-
-<img src="https://raw.githubusercontent.com/lukasdsouza/lukasdsouza/blob/main/workflow/.github/snake.yml?palette=github-dark" alt="Snake animation" />
-
-lukasdsouza/snake.svg?palette=github-dark
