@@ -15,6 +15,14 @@
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+<div align="center">
+<!--   <a href="https://github.com/alvesskaio"> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesskaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdsouza&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+##### Pequeno aviso: Altos índices de python por conta de um bendito ambiente virtual pra rodar um tema de mkdocs 🤣
+
 ### Tecnologias
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -28,14 +36,5 @@
 [![](https://img.shields.io/badge/-🚀%20Projeto%20front_end-000)](https://lukasdsouza.github.io/proj_front_end/)
 [![](https://img.shields.io/badge/-🚀%20Projeto%20Elenco_Botafogo-000)](https://lukasdsouza.github.io/ap2_dev_web/)
 
-
-
-<div align="center">
-<!--   <a href="https://github.com/alvesskaio"> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesskaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdsouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-##### Pequeno aviso: Altos índices de python por conta de um bendito ambiente virtual pra rodar um tema de mkdocs 🤣
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h6wblamis6ga1fumqffw2dnzv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
