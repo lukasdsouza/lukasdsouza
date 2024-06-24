@@ -1,4 +1,4 @@
-![](https://github.com/lukasdsouza/lukasdsouza/blob/main/1710161500214.jfif)
+![](https://github.com/lukasdsouza/lukasdsouza/blob/main/gif_git.gif)
 
 ## Seja bem vindo ao meu perfil do github.👾🤖
 
