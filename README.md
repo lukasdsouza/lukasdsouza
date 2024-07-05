@@ -29,7 +29,7 @@ const Lukas = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdsouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##### Pequeno aviso: Altos índices de python por conta de um bendito ambiente virtual pra rodar um tema de mkdocs 🤣
+##### Pequeno aviso: Altos índices de python por conta de um bendito ambiente virtual pra rodar um tema de mkdocs 🤣, e sim eu não quis usar git ignore.
 
 ### Tecnologias
 
