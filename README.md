@@ -7,7 +7,7 @@
 ```javascript
 const Lukas = {
     code: ["Javascript", "Python", "c", "css", "Go"],
-    askMeAbout: ["web dev", "tech", "cybersecurity"],
+    askMeAbout: ["web dev", "tech", "data"],
     currentFocus: ["Desenvolvimento Front end", "Cybersecurity", "Networks"],
     funFact: ["existem dois modos de escrever um programa sem errar, mas só o terceiro modo está correto"],
 };
