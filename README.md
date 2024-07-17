@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://github.com/lukasdsouza/lukasdsouza/blob/main/gif_git.gif" />
-</p>
-
 ## Seja bem vindo ao meu perfil do github.👾🤖
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 ```javascript
 const Lukas = {
@@ -14,14 +12,14 @@ const Lukas = {
 ```
 ### Meu nome é Lukas, sou estudante de engenharia da computação pelo Ibmec(unidade barra)👨🏻‍💻, atualmente estou no quinto periodo, tenho conhecimentos em redes de computadores, segurança da informação, arquitetura de computadores, estruturas de dados e algoritmos, desenvolvimento front end, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
 
-### Linguagens:
+#### Estou aprendendo sobre:
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=python"/>](https://docs.python.org/pt-br/3/)
 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 <div align="center">
 <!--   <a href="https://github.com/alvesskaio"> -->
@@ -44,6 +42,8 @@ const Lukas = {
 [![](https://img.shields.io/badge/-🚀%20Projeto%20front_end-000)](https://lukasdsouza.github.io/proj_front_end/)
 [![](https://img.shields.io/badge/-🚀%20Projeto%20Elenco_Botafogo-000)](https://lukasdsouza.github.io/ap2_dev_web/)
 [![](https://img.shields.io/badge/-🚀%20Projeto%20Landing%20Page%20DNC-000)](https://lukasdsouza.github.io/Eng_soft_DNC/)
+
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h6wblamis6ga1fumqffw2dnzv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
