@@ -6,7 +6,7 @@
 const Lukas = {
     code: ["Javascript", "Python", "c", "css", "Go"],
     askMeAbout: ["web dev", "tech", "data"],
-    currentFocus: ["Desenvolvimento Front end", "Cybersecurity", "Networks"],
+    currentFocus: ["Front end Development", "Cybersecurity", "Networks"],
     funFact: ["existem dois modos de escrever um programa sem errar, mas só o terceiro modo está correto"],
 };
 ```
@@ -18,16 +18,6 @@ const Lukas = {
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=python"/>](https://docs.python.org/pt-br/3/)
-
-
-
-<div align="center">
-<!--   <a href="https://github.com/alvesskaio"> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesskaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdsouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-##### Pequeno aviso: Altos índices de python por conta de um bendito ambiente virtual pra rodar um tema de mkdocs 🤣, e sim eu não quis usar git ignore.
 
 ### Tecnologias
 
