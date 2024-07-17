@@ -6,7 +6,7 @@
 const Lukas = {
     code: ["Javascript", "Python", "c", "css", "Go"],
     askMeAbout: ["web dev", "tech", "data"],
-    currentFocus: ["Front end Development", "Cybersecurity", "Networks"],
+    currentFocus: ["Front end Development", "DevOps", "Cybersecurity", "Networks"],
     funFact: ["existem dois modos de escrever um programa sem errar, mas só o terceiro modo está correto"],
 };
 ```
