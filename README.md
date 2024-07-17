@@ -43,6 +43,7 @@ const Lukas = {
 
 [![](https://img.shields.io/badge/-🚀%20Projeto%20front_end-000)](https://lukasdsouza.github.io/proj_front_end/)
 [![](https://img.shields.io/badge/-🚀%20Projeto%20Elenco_Botafogo-000)](https://lukasdsouza.github.io/ap2_dev_web/)
+[![](https://img.shields.io/badge/-🚀%20Projeto%20Landing%20Page%20DNC-000)](https://lukasdsouza.github.io/Eng_soft_DNC/)
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h6wblamis6ga1fumqffw2dnzv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
