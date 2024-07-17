@@ -7,7 +7,7 @@ const Lukas = {
     code: ["Javascript", "Python", "c", "css", "Go"],
     askMeAbout: ["web dev", "tech", "data"],
     currentFocus: ["Front end Development", "DevOps", "Cybersecurity", "Networks"],
-    funFact: ["existem dois modos de escrever um programa sem errar, mas só o terceiro modo está correto"],
+    funFact: ["existem dois modos de escrever um código sem errar, mas só o terceiro modo está correto"],
 };
 ```
 ### Meu nome é Lukas, sou estudante de engenharia da computação pelo Ibmec(unidade barra)👨🏻‍💻, atualmente estou no quinto periodo, tenho conhecimentos em redes de computadores, segurança da informação, arquitetura de computadores, estruturas de dados e algoritmos, desenvolvimento front end, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
