@@ -32,7 +32,7 @@ const Lukas = {
 [![](https://img.shields.io/badge/-🚀%20Projeto%20front_end-000)](https://lukasdsouza.github.io/proj_front_end/)
 [![](https://img.shields.io/badge/-🚀%20Projeto%20Elenco_Botafogo-000)](https://lukasdsouza.github.io/ap2_dev_web/)
 [![](https://img.shields.io/badge/-🚀%20Projeto%20Landing%20Page%20DNC-000)](https://lukasdsouza.github.io/Eng_soft_DNC/)
-
+[![](https://img.shields.io/badge/-🚀%20Projeto%20Landing%20Page%20Arquitetura-000)](https://projlandingpagearquitetura.netlify.app/)
 
 
 
