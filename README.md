@@ -4,7 +4,7 @@
 
 ```javascript
 const Lukas = {
-    code: ["Javascript", "Python", "c", "css"],
+    code: ["Javascript", "Python", "c", "css", "c++"],
     askMeAbout: ["web dev", "tech", "data"],
     currentFocus: ["Front end Development", "DevOps", "Cybersecurity", "Networks"],
     funFact: ["existem dois modos de escrever um código sem errar, mas só o terceiro modo está correto"],
