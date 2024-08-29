@@ -13,7 +13,7 @@ const Lukas = {
 ### Meu nome é Lukas, sou estudante de Engenharia de Software pela Alura e Engenharia da Computação👨🏻‍💻 pelo Ibmec(unidade barra), atualmente estou no sexto periodo, tenho conhecimentos em desenvolvimento front end, DevOps, redes de computadores, segurança da informação, arquitetura de computadores, estruturas de dados e algoritmos, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
 
 #### Estou aprendendo sobre:
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,mongodb,docker,react,cpp,c,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,mongodb,docker,react,cpp,c)](https://skillicons.dev)<br/>
 
 ### Projetos
 
