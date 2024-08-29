@@ -10,7 +10,7 @@ const Lukas = {
     funFact: ["existem dois modos de escrever um código sem errar, mas só o terceiro modo está correto"],
 };
 ```
-### Meu nome é Lukas, sou estudante de Engenharia de Software pela Escola DNC e Engenharia da Computação👨🏻‍💻 pelo Ibmec(unidade barra), atualmente estou no sexto periodo, tenho conhecimentos em desenvolvimento front end, DevOps, redes de computadores, segurança da informação, arquitetura de computadores, estruturas de dados e algoritmos, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
+### Meu nome é Lukas, sou estudante de Engenharia de Software pela Alura e Engenharia da Computação👨🏻‍💻 pelo Ibmec(unidade barra), atualmente estou no sexto periodo, tenho conhecimentos em desenvolvimento front end, DevOps, redes de computadores, segurança da informação, arquitetura de computadores, estruturas de dados e algoritmos, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
 
 #### Estou aprendendo sobre:
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
