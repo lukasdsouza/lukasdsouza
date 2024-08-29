@@ -13,11 +13,7 @@ const Lukas = {
 ### Meu nome é Lukas, sou estudante de Engenharia de Software pela Alura e Engenharia da Computação👨🏻‍💻 pelo Ibmec(unidade barra), atualmente estou no sexto periodo, tenho conhecimentos em desenvolvimento front end, DevOps, redes de computadores, segurança da informação, arquitetura de computadores, estruturas de dados e algoritmos, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
 
 #### Estou aprendendo sobre:
-[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=python"/>](https://docs.python.org/pt-br/3/)
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,mongodb,docker,react,cpp,c,figma)](https://skillicons.dev)<br/>
 
 ### Projetos
 
