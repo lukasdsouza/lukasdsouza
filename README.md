@@ -6,7 +6,6 @@
 ```javascript
 const Whoami = {
     name: Lukas
-    studying: ["Computer engineering", "Data science and AI"],
     code: ["React", "Python", "c", "c++"],
     askMeAbout: ["Machine Learning", "Iot", "data"],
     currentFocus: ["Full stack Development", "DevOps", "Cybersecurity", "Análise de dados", "Visão computacional", "IoT"],
