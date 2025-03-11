@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu perfil do github.👾🤖
+## Sorria, agora você está sendo rastreado...
 ![Visitor Count](https://profile-counter.glitch.me/{lukasdsouza}/count.svg)
 
 
