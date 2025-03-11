@@ -21,8 +21,4 @@ const Whoami = {
 #### Tecnologias que uso e me interesso:
 [![SkillIcons](https://skillicons.dev/icons?i=js,figma,react,nodejs,webpack,docker,py,opencv,cpp,c,mysql,supabase,arduino)](https://skillicons.dev)<br/>
 
-<div align="center">
-  <a href="https://github.com/lukasdsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdsouza&layout=compact&langs_count=7&theme=dracula"/>   
-</div>
 
