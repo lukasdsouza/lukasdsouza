@@ -1,43 +1,26 @@
 ## Seja bem vindo ao meu perfil do github.👾🤖
+![Visitor Count](https://profile-counter.glitch.me/{lukasdsouza}/count.svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
 
 ```javascript
 const Lukas = {
-    code: ["Javascript", "Python", "c", "css", "c++"],
+    code: ["React", "Python", "c", "c++"],
     askMeAbout: ["web dev", "tech", "data"],
-    currentFocus: ["Front end Development", "DevOps", "Cybersecurity", "Networks"],
-    funFact: ["existem dois modos de escrever um código sem errar, mas só o terceiro modo está correto"],
+    currentFocus: ["Full stack Development", "DevOps", "Cybersecurity", "Análise de dados", "Visão computacional", "IoT"],
+    funFact: ["Cursando duas graduações ao mesmo tempo. sim, sou louco. porém o mundo é daqueles que ousam."],
 };
 ```
-### Meu nome é Lukas, sou estudante de Engenharia de Software pela Alura e Engenharia da Computação👨🏻‍💻 pelo Ibmec(unidade barra), atualmente estou no sexto periodo, tenho conhecimentos em desenvolvimento front end, DevOps, redes de computadores, segurança da informação, arquitetura de computadores, estruturas de dados e algoritmos, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
+### Meu nome é Lukas, sou estudante de  Engenharia da Computação e Ciência de dados e IA pelo Ibmec(unidade barra) e Engenharia de Software pela Alura, atualmente estou no sétimo períoodo, tenho conhecimentos em desenvolvimento com python, C, C++, IoT, Visão computacional, Power Bi e nas linguagens citadas abaixo, abaixo você também irá encontrar um link para meu perfil no LinkdIn onde meus projetos estão melhores explicados.
 
-#### Estou aprendendo sobre:
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,mongodb,docker,react,cpp,c)](https://skillicons.dev)<br/>
+### Meus interesses são: 
+<img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Data Analysis-blue"> <img src="https://img.shields.io/badge/Back End Development-green">
 
-### Projetos
-
-[![](https://img.shields.io/badge/-🚀%20Meu%20Currículo-000)](https://lukasdsouza.github.io/meu_curriculo/)
-[![](https://img.shields.io/badge/-🚀%20Projeto%20front_end-000)](https://lukasdsouza.github.io/proj_front_end/)
-[![](https://img.shields.io/badge/-🚀%20Projeto%20Elenco_Botafogo-000)](https://lukasdsouza.github.io/ap2_dev_web/)
-[![](https://img.shields.io/badge/-🚀%20Projeto%20Landing%20Page%20DNC-000)](https://lukasdsouza.github.io/Landing_page_full_stack_DNC/)
-[![](https://img.shields.io/badge/-🚀%20Projeto%20Landing%20Page%20Arquitetura-000)](https://projlandingpagearquitetura.netlify.app/)
-[![](https://img.shields.io/badge/-🚀%20Projeto%20Portfólio%20Template-000)](https://portfolio-template27.netlify.app/)
-[![](https://img.shields.io/badge/-🚀%20Bootcamp%20Landing%20Page%20Model-000)](https://lukasdsouza.github.io/bootcamp_landing_page/)
-
-### Tecnologias
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+#### Tecnologias que uso e me interesso:
+[![SkillIcons](https://skillicons.dev/icons?i=js,figma,react,nodejs,webpack,docker,py,opencv,cpp,c,mysql,supabase,arduino)](https://skillicons.dev)<br/>
 
 <div align="center">
   <a href="https://github.com/lukasdsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdsouza&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdsouza&layout=compact&langs_count=7&theme=dracula"/>   
 </div>
-
-
-
-
 
