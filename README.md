@@ -13,7 +13,7 @@ const Whoami = {
     funFact: ["Cursando duas graduações ao mesmo tempo. sim, sou louco. porém o mundo é daqueles que ousam."],
 };
 ```
-### Meu nome é Lukas, atualmente estou no sétimo período de Engenharia da Computação e quinto período de Ciência de dados e IA também pelo Ibmec(unidade barra), tenho conhecimentos em desenvolvimento com python, C, C++, IoT, Visão computacional, Power Bi e nas tecnologias citadas abaixo, abaixo você também irá encontrar um link para meu perfil no LinkdIn onde meus projetos estão melhores explicados.
+### Meu nome é Lukas, atualmente estou no sétimo período de Engenharia da Computação e quinto período de Ciência de dados e IA também pelo Ibmec(unidade barra), tenho conhecimentos em desenvolvimento com python, C, C++, IoT, Visão computacional, Power Bi e nas tecnologias citadas abaixo.
 
 ### Meus interesses são: 
 <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Data Analysis-blue"> <img src="https://img.shields.io/badge/Back End Development-green">
