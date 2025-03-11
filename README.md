@@ -6,7 +6,7 @@
 ```javascript
 const Lukas = {
     code: ["React", "Python", "c", "c++"],
-    askMeAbout: ["web dev", "tech", "data"],
+    askMeAbout: ["Machine Learning", "Iot", "data"],
     currentFocus: ["Full stack Development", "DevOps", "Cybersecurity", "Análise de dados", "Visão computacional", "IoT"],
     funFact: ["Cursando duas graduações ao mesmo tempo. sim, sou louco. porém o mundo é daqueles que ousam."],
 };
