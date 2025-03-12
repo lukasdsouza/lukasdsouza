@@ -13,7 +13,7 @@ const Whoami = {
     funFact: ["Cursando duas graduações ao mesmo tempo. sim, sou louco. porém o mundo é daqueles que ousam."],
 };
 ```
-### Meu nome é Lukas, atualmente estou no sétimo período de Engenharia da Computação e quinto período de Ciência de dados e IA também pelo Ibmec(unidade barra), atualmente desenvolvo em python, C, e C++, tendo foco principalmente em IoT,Visão computacional, Power Bi e nas tecnologias citadas abaixo.
+### Meu nome é Lukas, atualmente estou no sétimo período de Engenharia da Computação e quinto período de Ciência de dados e IA ambas pelo Ibmec(unidade barra), atualmente desenvolvo em python, C, e C++, tendo foco principalmente em IoT,Visão computacional, Power Bi e nas tecnologias citadas abaixo.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
