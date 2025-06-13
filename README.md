@@ -7,7 +7,7 @@
   </ul>
 </div>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Computa%C3%A7%C3%A3o+%7C+Cientista+de+Dados;Desenvolvedor+Full+Stack+%7C+IoT+%7C+GenAI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Engenharia+da+computa%C3%A7%C3%A3o+%26+Cientista+de+dados;Dev+Full+Stack+%26+Freelancer;GenAI+%26+LLM" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
