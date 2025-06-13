@@ -7,7 +7,7 @@
   </ul>
 </div>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Engenharia+da+computa%C3%A7%C3%A3o+%26+Cientista+de+dados;Dev+Full+Stack+%26+Freelancer;GenAI+%26+LLM" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Engenharia+da+computa%C3%A7%C3%A3o+%26+Ciencia+de+dados+/+IA;Dev+Full+Stack+%26+Freelancer;GenAI+%26+LLM" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -43,11 +43,27 @@
 <p><strong>Tecnologias:</strong> n8n, TypeScript, Google Cloud, PostgreSQL, OpenAI API.</p>
 </details>
 
+
 <details>
 <summary><strong>Lixeira Inteligente com IoT</strong></summary>
 <br>
 <p>Liderei o desenvolvimento de uma Lixeira Inteligente usando sensores IoT e protocolo MQTT para automatizar alertas, reduzindo o monitoramento manual em 50% e entregando o projeto 15% antes do prazo.</p>
 <p><strong>Tecnologias:</strong> C++, IoT, MQTT, Scrum, Agile.</p>
+</details>
+
+
+<details>
+<summary><strong>Find a Friend - Plataforma Social</strong></summary>
+<br>
+<p>Plataforma robusta para conectar pessoas interessadas em atividades sociais. Utiliza Node.js e Express no backend, PostgreSQL com Drizzle ORM para dados, e React com Tailwind CSS no frontend, além do Firebase para autenticação e hospedagem.</p>
+<p><strong>Tecnologias:</strong> Node.js, Express, PostgreSQL, Drizzle ORM, React, Tailwind CSS, Firebase.</p>
+</details>
+
+<details>
+<summary><strong>Reconhecimento de Expressões Faciais com IA</strong></summary>
+<br>
+<p>Sistema que utiliza algoritmos de Visão Computacional como YOLOv9 e Haar Cascade para reconhecimento de expressões faciais de até 3 pessoas simultaneamente. O compartilhamento de dados foi realizado via protocolo MQTT.</p>
+<p><strong>Tecnologias:</strong> YOLOv9, Haar Cascade, Computer Vision, MQTT.</p>
 </details>
 
 ---
